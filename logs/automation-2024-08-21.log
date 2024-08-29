@@ -1,0 +1,47 @@
+19:18:16.299 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:18:29.066 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:18:29.066 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:18:29.322 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:18:29.844 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:18:31.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+19:18:31.235 [main] ERROR testCases.TC001_AccountRegistrationTest - Registration process is failed...
+19:18:31.235 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:19:41.284 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:19:41.285 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:19:41.568 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:19:42.186 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:19:44.151 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+19:19:44.179 [main] ERROR testCases.TC001_AccountRegistrationTest - Registration process is failed...
+19:19:44.180 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:20:27.036 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:20:27.076 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:20:27.157 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:20:27.574 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:20:28.963 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+19:20:29.013 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+19:20:29.014 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+19:20:38.080 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:20:38.081 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:20:38.354 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:20:38.868 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:20:40.226 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+19:20:40.261 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+19:20:40.261 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+19:20:53.328 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:20:53.329 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:20:53.616 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:20:54.269 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:20:56.176 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+19:20:56.205 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+19:20:56.205 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+19:25:42.702 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:25:42.783 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:25:43.020 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:25:43.616 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:25:44.482 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+19:25:44.483 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+19:25:44.643 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+19:25:45.173 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+19:25:45.900 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+19:25:45.999 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+19:25:45.999 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......

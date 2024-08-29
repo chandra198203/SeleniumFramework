@@ -1,0 +1,53 @@
+08:43:52.777 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+08:43:52.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+08:43:52.940 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+08:43:53.351 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+08:43:55.145 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+08:43:55.199 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+08:43:55.199 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+09:15:21.072 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+09:15:21.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+09:15:21.235 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+09:15:21.709 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+09:15:23.030 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+09:15:23.086 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+09:15:23.086 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+09:37:00.172 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+09:37:00.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+09:37:00.295 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+09:37:00.700 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+09:37:02.102 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+09:37:02.143 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+09:37:02.143 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+09:37:45.038 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:39:41.488 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:42:06.372 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:42:52.634 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:43:41.758 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:44:14.970 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:45:54.757 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:48:35.403 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:48:35.927 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+09:48:36.154 [main] INFO  testCases.TC002_LoginTest - click on Login
+09:48:36.587 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+09:49:45.055 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:49:45.487 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+09:49:45.709 [main] INFO  testCases.TC002_LoginTest - click on Login
+09:49:46.339 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+09:52:46.507 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:52:46.948 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+09:52:47.150 [main] INFO  testCases.TC002_LoginTest - click on Login
+09:52:47.670 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+09:52:57.724 [main] INFO  testCases.TC002_LoginTest - *************Login Test Failed***************
+09:55:25.490 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:55:26.045 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+09:55:26.278 [main] INFO  testCases.TC002_LoginTest - click on Login
+09:55:26.575 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+09:55:36.612 [main] INFO  testCases.TC002_LoginTest - *************Login Test Failed***************
+09:56:53.132 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+09:56:53.658 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+09:56:53.907 [main] INFO  testCases.TC002_LoginTest - click on Login
+09:56:54.586 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+09:56:54.639 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
+10:50:49.633 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+10:50:49.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link

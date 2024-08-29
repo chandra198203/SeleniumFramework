@@ -1,0 +1,9 @@
+10:36:20.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+10:36:21.293 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+10:36:21.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+10:36:21.333 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+10:36:29.077 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+10:36:29.454 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+10:36:29.690 [main] INFO  testCases.TC002_LoginTest - click on Login
+10:36:30.340 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+10:36:30.380 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************

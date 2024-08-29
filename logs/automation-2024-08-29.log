@@ -1,0 +1,50 @@
+09:44:41.513 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+09:44:41.630 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+09:44:42.377 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+09:44:46.988 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+09:44:47.395 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+09:44:47.396 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+09:44:48.054 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+09:44:48.059 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+09:44:48.496 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+09:44:49.206 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+09:44:51.296 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+09:44:51.375 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+09:44:51.377 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+09:44:55.031 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+09:44:55.032 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+09:44:55.359 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+09:44:55.911 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+09:44:57.918 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+09:44:57.953 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+09:44:57.953 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+10:15:45.175 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+10:15:45.571 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+10:15:45.787 [main] INFO  testCases.TC002_LoginTest - click on Login
+10:15:46.315 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+10:15:46.460 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
+10:29:07.284 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+10:29:07.869 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+10:29:08.115 [main] INFO  testCases.TC002_LoginTest - click on Login
+10:29:08.744 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+10:29:08.814 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
+10:33:26.024 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+10:33:26.526 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+10:33:26.754 [main] INFO  testCases.TC002_LoginTest - click on Login
+10:33:27.256 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+10:33:27.395 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
+10:35:38.961 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+10:35:38.990 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+10:35:39.103 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+10:35:39.641 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+10:35:40.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+10:35:40.900 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+10:35:40.900 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+10:35:46.453 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+10:35:46.861 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+10:35:47.088 [main] INFO  testCases.TC002_LoginTest - click on Login
+10:35:47.590 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+10:35:47.731 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
+10:36:19.590 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+10:36:19.615 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+10:36:19.700 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
