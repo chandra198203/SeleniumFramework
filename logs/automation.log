@@ -7,3 +7,22 @@
 10:36:29.690 [main] INFO  testCases.TC002_LoginTest - click on Login
 10:36:30.340 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
 10:36:30.380 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
+11:40:03.502 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+11:40:03.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+11:40:03.631 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+11:40:04.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+11:40:05.247 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+11:40:05.285 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+11:40:05.285 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+11:40:47.149 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting the Registration Test***************
+11:40:47.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the MyAccount link
+11:40:47.319 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on the Register link
+11:40:47.753 [main] INFO  testCases.TC001_AccountRegistrationTest - Enter the data in Regisier page
+11:40:48.985 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the success message for Registration
+11:40:49.037 [main] INFO  testCases.TC001_AccountRegistrationTest - Regestration Succesful
+11:40:49.037 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Regristration test is completed......
+11:40:54.283 [main] INFO  testCases.TC002_LoginTest - *************Login Test***************
+11:40:54.651 [main] INFO  testCases.TC002_LoginTest - Enter the Credentials
+11:40:54.836 [main] INFO  testCases.TC002_LoginTest - click on Login
+11:40:55.458 [main] INFO  testCases.TC002_LoginTest - Verify the Login status
+11:40:55.503 [main] INFO  testCases.TC002_LoginTest - *************Login Test Successful***************
